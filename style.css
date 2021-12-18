@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: rgb(165, 165, 165);
+}
+
+h2 {
+    color: white;
+}
+
+button {
+    background-color: firebrick;
+    width: 500px;
+    font-family: cursive;
+    font-size: 30px;
+    padding: 33px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+}
